@@ -1,0 +1,291 @@
+{
+    "programme": "",
+    "years": [
+        {
+            "year": "Year 1",
+            "terms": [
+                {
+                    "term": "Term I",
+                    "courses": [
+                        {
+                            "code": "AGRHDAHP 0111",
+                            "title": "Introduction to animal Agriculture",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "APHDAHP 0112",
+                            "title": "Anatomy & Physiology ",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PETHDAHP 0113",
+                            "title": "Principles of Extension",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "GEHDAHP 0114",
+                            "title": "General use of English",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "SWPHDAHP 0115",
+                            "title": "Swine Production",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "RPHDAHP 0116",
+                            "title": "Rabbit Production",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PPHDAHP 0117",
+                            "title": "Production Practices",
+                            "hrs": 3
+                        }
+                    ]
+                },
+                {
+                    "term": "Term II",
+                    "courses": [
+                        {
+                            "code": "FMAHDAHP 0121",
+                            "title": "Farm management & Accounting",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PHHDAHP 0122",
+                            "title": "Pharmacology ",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "SRHDAHP 0123",
+                            "title": "Small Ruminant Production",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "ETCHDAHP 0124",
+                            "title": "Extension Communication",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "ITHDAHP 0125",
+                            "title": "",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "",
+                            "title": "IT",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "IVTHDAHP 0126",
+                            "title": "Introduction to vet. Toxicology",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "PPHDAHP 0127",
+                            "title": "Production Practices",
+                            "hrs":2
+                        }
+                    ]
+                },
+                {
+                    "term": "Term III",
+                    "courses": [
+                        {
+                            "code": "RMHDAHP 0131",
+                            "title": "Research Method I",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "ABHDAHP 0132",
+                            "title": "Animal Breeding",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "CLPHDAHP 0133",
+                            "title": "Clinical Procedures ",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "IVEHDAHP 0134",
+                            "title": "Introduction to Vet. Epidemiology",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "AWHDAHP 0135",
+                            "title": "Animal Welfare ",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "AHDSHDAHP 0136",
+                            "title": "Animal Health and Disease Surveillance  ",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PPHDAHP 0137",
+                            "title": "Production Practices",
+                            "hrs": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": "Year 2",
+            "terms": [
+                {
+                    "term": "Term I",
+                    "courses": [
+                        {
+                            "code": "VPHHDAHP 0111",
+                            "title": "Vet. Public Health 1",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "CEHDAHP 0112",
+                            "title": "Communication in English II ",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "IABHDAHP 0113",
+                            "title": "Introduction to Animal Biochemistry",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "RSHDAHP 0114",
+                            "title": "Rural Sociology",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "RMHDAHP 0115",
+                            "title": "Research Method II ",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PTHDAHP 0116",
+                            "title": "Parasitology",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PPHDAHP 0227",
+                            "title": "Production Practices",
+                            "hrs": 2
+                        }
+                    ]
+                },
+                {
+                    "term": "Term II",
+                    "courses": [
+                        {
+                            "code": "HTMHDAHP 0221",
+                            "title": "Hatchery Technology & Management",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "LRPHDAHP 0222",
+                            "title": "Large Ruminant Production",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "BDPHDAHP 0223",
+                            "title": "Beef & Dairy Production",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "HSIHDAHP 0224",
+                            "title": "Hides & Skins Improvement",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PTPHDAHP 0225",
+                            "title": "Poultry Production",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "EMHDAHP 0226",
+                            "title": "Equine Management",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PPHDAHP 0117",
+                            "title": "Production Practices",
+                            "hrs":2
+                        }
+                    ]
+                },
+                {
+                    "term": "Term III",
+                    "courses": [
+                        {
+                            "code": "GMHDAHP 0231",
+                            "title": "General Microbiology",
+                            "hrs": 4
+                        },
+
+                        {
+                            "code": "VPHHDAHP 0232",
+                            "title": "Vet. Public Health 2",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "FFHDAHP 0233",
+                            "title": "Feeds & Feeding",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PRMHDAHP 0234",
+                            "title": "Pasture and Range Management",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "GPTHDAHP 0235",
+                            "title": "General Pathology",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "CDHDAHP 0236",
+                            "title": "Career Development",
+                            "hrs": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

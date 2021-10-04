@@ -1,0 +1,426 @@
+{
+  "programme": "",
+  "years": [
+    {
+      "year": "Year 1",
+      "terms": [
+        {
+          "term": "Term I",
+          "courses": [
+            {
+              "code": "AGRHD3 0111",
+              "title": "Introduction to Agriculture",
+              "hrs": 3
+            },
+            {
+              "code": "BIOHD3 0111",
+              "title": "Biology I",
+              "hrs": 3
+            },
+
+            {
+              "code": "Chemistry I",
+              "title": "CHEMHD3 0113",
+              "hrs": 2
+            },
+
+            {
+              "code": "CMSHD3 0114",
+              "title": "Communication Skills I",
+              "hrs": 2
+            },
+
+            {
+              "code": "MTHHD3 0115",
+              "title": "Mathematics I",
+              "hrs": 3
+            },
+
+            {
+              "code": "PHYHD3 0116",
+              "title": "Physics",
+              "hrs": 3
+            },
+
+            {
+              "code": "GEHD3 0117",
+              "title": "General Economics",
+              "hrs": 2
+            },
+
+            {
+              "code": "PPHD3 0118",
+              "title": "Production Practices",
+              "hrs": "2"
+            }
+          ]
+        },
+
+        {
+          "term": "Term II",
+          "courses": [
+            {
+              "code": "BIOHD3 0121",
+              "title": "Biology II",
+              "hrs": 3
+            },
+
+            {
+              "code": "CHEMHD3 0122",
+              "title": "Chemistry II",
+              "hrs": 2
+            },
+
+            {
+              "code": "CMSHD3 0123",
+              "title": "Communication Skills II",
+              "hrs": 2
+            },
+
+            {
+              "code": "MTHHD3 0124",
+              "title": "Mathematics II",
+              "hrs": 3
+            },
+
+            {
+              "code": "FCSHD3 0125",
+              "title": "Fundamentals of Crop Science",
+              "hrs": 3
+            },
+
+            {
+              "code": "ETPHD3 0126",
+              "title": "Extension Principles",
+              "hrs": 3
+            },
+
+            {
+              "code": "PPHD3 0127",
+              "title": "Production Practices",
+              "hrs": 2
+            }
+          ]
+        },
+
+        {
+          "term": "Term III",
+          "courses": [
+            {
+              "code": "FCHD3 0131",
+              "title": "Field Crops I",
+              "hrs": 3
+            },
+
+            {
+              "code": "CPHD3 0132",
+              "title": "Crop Physiology",
+              "hrs": 2
+            },
+
+            {
+              "code": "SSHD3 0133",
+              "title": "Soil Science I",
+              "hrs": 3
+            },
+
+            {
+              "code": "CMSHD3 0134",
+              "title": "Communication Skills III",
+              "hrs": 2
+            },
+
+            {
+              "code": "MTHHD3 0135",
+              "title": "Mathematics III",
+              "hrs": 3
+            },
+
+            {
+              "code": "RSHD3 0136",
+              "title": "Rural Sociology",
+              "hrs": 3
+            },
+
+            {
+              "code": "ANHD3 0137",
+              "title": "Animal Nutrition",
+              "hrs": 3
+            },
+
+            {
+              "code": "PPHD3 0118",
+              "title": "Production Practices",
+              "hrs": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Year 2",
+      "terms": [
+        {
+          "term": "Term I",
+          "courses": [
+            {
+              "code": "EMHD3 0211",
+              "title": "Extension Methods",
+              "hrs": 3
+            },
+
+            {
+              "code": "PEHD3 0212",
+              "title": "Production Economics",
+              "hrs": 3
+            },
+
+            {
+              "code": "HCHD3 0213",
+              "title": "Horticulture (Vegetables)",
+              "hrs": 3
+            },
+
+            {
+              "code": "LFFHD3 0214",
+              "title": "Livestock Feeds & Feeding",
+              "hrs": 3
+            },
+
+            {
+              "code": "FFHD3 0215",
+              "title": "Fish Farming",
+              "hrs": 2
+            },
+
+            {
+              "code": "PTPHD3 0216",
+              "title": "Poultry Production",
+              "hrs": 3
+            },
+
+            {
+              "code": "ENTHD3 0217",
+              "title": "Entomology",
+              "hrs": 3
+            },
+
+            {
+              "code": "PPHD3 0218",
+              "title": "Production Practices",
+              "hrs": 3
+            },
+
+            {
+              "code": "",
+              "title": "",
+              "hrs": 3
+            }
+          ]
+        },
+
+        {
+          "term": "Term II",
+          "courses": [
+            {
+              "code": "AGFHD3 0221",
+              "title": "Agro forestry",
+              "hrs": 3
+            },
+
+            {
+              "code": "FMAHD3 0222",
+              "title": "Farm Mgt & Accounting",
+              "hrs": 3
+            },
+
+            {
+              "code": "PHTHD3 0223",
+              "title": "Post-harvest Technology I",
+              "hrs": 3
+            },
+
+            {
+              "code": "AGEHD3 0224",
+              "title": "Agric Engineering I",
+              "hrs": 3
+            },
+
+            {
+              "code": "RMHD3 0225",
+              "title": "Research Methods I",
+              "hrs": 3
+            },
+
+            {
+              "code": "PESHD3 0226",
+              "title": "Pesticides",
+              "hrs": 2
+            },
+
+            {
+              "code": "HCHD3 0227",
+              "title": "Horticulture (trees)",
+              "hrs": 3
+            },
+
+            {
+              "code": "PPHD3 0228",
+              "title": "Production Practices",
+              "hrs": 2
+            }
+          ]
+        },
+
+        {
+          "term": "Term III",
+          "courses": [
+            {
+              "code": "WSHD3 0231",
+              "title": "Weed Science",
+              "hrs": 3
+            },
+
+            {
+              "code": "SSHD3 0232",
+              "title": "Soil Science II",
+              "hrs": 3
+            },
+
+            {
+              "code": "RMHD3 0233",
+              "title": "Research Methods II",
+              "hrs": 3
+            },
+
+            {
+              "code": "ENTHD3 0234",
+              "title": "Entrepreneurship",
+              "hrs": 3
+            },
+
+            {
+              "code": "AGEHD3 0235",
+              "title": "Agric Engineering II",
+              "hrs": 3
+            },
+
+            {
+              "code": "PHTHD3 0236",
+              "title": "Post-Harvest Tech II",
+              "hrs": 3
+            },
+
+            {
+              "code": "PPHD3 0237",
+              "title": "Production Practices",
+              "hrs": 2
+            },
+
+            {
+              "code": "NO CODE",
+              "title": "Information Technology",
+              "hrs": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Year 3",
+      "terms": [
+        {
+          "term": "Term I",
+          "courses": [
+            {
+              "code": "",
+              "title": "Internship ( Industrial attachment)",
+              "hrs": 3
+            }
+          ]
+        },
+        {
+          "term": "Term II",
+          "courses": [
+            {
+              "code": "AGSHD3 0321",
+              "title": "Agricultural Gender Studies",
+              "hrs": 3
+            },
+
+            {
+              "code": "PPTHD3 0322",
+              "title": "Plant Pathology",
+              "hrs": 3
+            },
+
+            {
+              "code": "AEHD3 0323",
+              "title": "Agric Engineering III",
+              "hrs": 3
+            },
+
+            {
+              "code": "SRPHD3 0324",
+              "title": "Small Ruminant Production ",
+              "hrs": 3
+            },
+
+            {
+              "code": "SWRPHD3 0325",
+              "title": "Swe & Rabbit Production",
+              "hrs": 3
+            },
+
+            {
+              "code": "FCHD3 0326",
+              "title": "Field Crops II",
+              "hrs": 3
+            },
+
+            {
+              "code": "SWMHD3 0326",
+              "title": "Soil & Water Management",
+              "hrs": 3
+            },
+
+            {
+              "code": "PPHD3 0327",
+              "title": "Production practices",
+              "hrs": 3
+            }
+          ]
+        },
+
+        {
+          "term": "Term III",
+          "courses": [
+            {
+              "code": "",
+              "title": "",
+              "hrs": 3
+            },
+
+            {
+              "code": "",
+              "title": "",
+              "hrs": 3
+            },
+
+            {
+              "code": "",
+              "title": "",
+              "hrs": 3
+            },
+
+            {
+              "code": "",
+              "title": "",
+              "hrs": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+    "programme": "",
+    "years": [
+        {
+            "year": "Year 1",
+            "terms": [
+                {
+                    "term": "Term I",
+                    "courses": [
+                        {
+                            "code": "CMSCGA 0111",
+                            "title": "Communication Skills I",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "CMCGA 0112",
+                            "title": "Crop Management ",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "BIOCGA 0113",
+                            "title": "Biology I",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "CHEMCGA 0114",
+                            "title": "Chemistry I",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "MATHCGA 0115",
+                            "title": "Mathematics I",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "AGRCGA 0116",
+                            "title": "Introduction to Agriculture",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PHYCGA 0117",
+                            "title": "Physics",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PPCGA 0118",
+                            "title": "Production Practices",
+                            "hrs": 2
+                        }
+                    ]
+                },
+                {
+                    "term": "Term II",
+                    "courses": [
+                        {
+                            "code": "CMSCGA 0121",
+                            "title": "Communication Skills II",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "RSCGA 0122",
+                            "title": "Rural Sociology",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "BIOCGA 0123",
+                            "title": "Biology II",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "CHEMCGA 0124",
+                            "title": "Chemistry II",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "MATHCGA 0125",
+                            "title": "Mathematics II",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "ETPCGA 0126",
+                            "title": "Extension Principles",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "AGSCGA 0127",
+                            "title": "Agricultural Gender studies ",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PPCGA 0128",
+                            "title": "Production Practices",
+                            "hrs": 2
+                        }
+
+                        
+                    ]
+                },
+                {
+                    "term": "Term III",
+                    "courses": [
+                        {
+                            "code": "CMSCGA 0131",
+                            "title": "Communication Skills III",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "HCCGA 0132",
+                            "title": "Horticulture (Vegetables)",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "SSCGA 0133",
+                            "title": "Soil Science I",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "AGECGA 0134",
+                            "title": "Agric Engineering I",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "ETMCGA 0135",
+                            "title": "Extension Methods",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "FCCGA 0136",
+                            "title": "Field Crops I",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "ENTCGA 0137",
+                            "title": "Entomology",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "SWPCGA 0138",
+                            "title": "Swine Production",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "PPCGA 0139",
+                            "title": "Production Practices",
+                            "hrs": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": "Year 2",
+            "terms": [
+                {
+                    "term": "Term I",
+                    "courses": [
+                        {
+                            "code": "AGECGE 0211",
+                            "title": "Agric Engineering II",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "HCCGA 0212",
+                            "title": "Horticulture (Trees)",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PTPCGA 0213",
+                            "title": "Poultry Production",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "WSCGA 0214",
+                            "title": "Weed Science",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "SSCGA 0215",
+                            "title": "Soil Science II",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "ANCGA 0216",
+                            "title": "Animal Nutrition",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "RPCGA 0217",
+                            "title": "Rabbit Production",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "PPCGA 0218",
+                            "title": "Production Practices",
+                            "hrs": 2
+                        }
+                    ]
+                },
+                {
+                    "term": "Term II",
+                    "courses": [
+                        {
+                            "code": "AGECGA 0221",
+                            "title": "Agric Engineering III",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "SRPCGA 0222",
+                            "title": "Small Ruminant Production",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "FMCGA 0223",
+                            "title": "Farm Management",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PPTCGA 0224",
+                            "title": "Plant Pathology",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "FCCGA 0225",
+                            "title": "Field Crops II ",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "AGFCGA 0226",
+                            "title": "Agro forestry",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "SWMCGA 0227",
+                            "title": "Soil & Water Management",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PPCGA 0228",
+                            "title": "Production Practices",
+                            "hrs": 2
+                        }
+                    ]
+                },
+                {
+                    "term": "Term III",
+                    "courses": [
+                        {
+                            "code": "LRPCGA 0231",
+                            "title": "Large Ruminant Production",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "CPCGA 0232",
+                            "title": "Crop Protection (pesticides",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "ETCCGA 0233",
+                            "title": "Extension Communication",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PHTCGA 0234",
+                            "title": "Post-Harvest Technology",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "ENTCGA 0235",
+                            "title": "Entrepreneurship",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "ENACGA 0236",
+                            "title": "Environmental Agriculture",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "AGMCGA 0237",
+                            "title": "Agric Marketing",
+                            "hrs": 3
+                        },
+
+                        {
+                            "code": "PPCGA 0238",
+                            "title": "Production practices ",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "ITCGA 0239",
+                            "title": "Information Technology",
+                            "hrs": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
