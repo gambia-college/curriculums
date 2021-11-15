@@ -51,7 +51,7 @@
 
                         {
                             "code": "PPCGA 0118",
-                            "title": "Production Practices",
+                            "title": "ProductionPractices",
                             "hrs": 2
                         }
                     ]
@@ -103,11 +103,9 @@
 
                         {
                             "code": "PPCGA 0128",
-                            "title": "Production Practices",
+                            "title": "ProductionPractices",
                             "hrs": 2
-                        }
-
-                        
+                        }    
                     ]
                 },
                 {
@@ -116,7 +114,7 @@
                         {
                             "code": "CMSCGA 0131",
                             "title": "Communication Skills III",
-                            "hrs": 3
+                            "hrs": 2
                         },
 
                         {
@@ -163,8 +161,14 @@
 
                         {
                             "code": "PPCGA 0139",
-                            "title": "Production Practices",
-                            "hrs": 3
+                            "title": "ProductionPractices",
+                            "hrs": 2
+                        },
+
+                        {
+                            "code": "SFACGA 0101",
+                            "title": "Summer Farm Attachment",
+                            "hrs": 6
                         }
                     ]
                 }
@@ -220,7 +224,7 @@
 
                         {
                             "code": "PPCGA 0218",
-                            "title": "Production Practices",
+                            "title": "ProductionPractices",
                             "hrs": 2
                         }
                     ]
@@ -272,7 +276,7 @@
 
                         {
                             "code": "PPCGA 0228",
-                            "title": "Production Practices",
+                            "title": "ProductionPractices",
                             "hrs": 2
                         }
                     ]

@@ -51,7 +51,7 @@
 
                         {
                             "code": "PPCAHP 0118",
-                            "title": "Production Practices",
+                            "title": "ProductionPractices",
                             "hrs": 2
                         }
                     ]
@@ -109,7 +109,7 @@
 
                         {
                             "code": "PPCAHP 0129",
-                            "title": "Production Practices",
+                            "title": "ProductionPractices",
                             "hrs": 2
                         }
                     ]
@@ -167,9 +167,18 @@
 
                         {
                             "code": "PPCAHP 0139",
-                            "title": "Production Practices",
+                            "title": "ProductionPractices",
                             "hrs": 2
+                        },
+
+
+
+                        {
+                            "code": "SFACAHP 0101",
+                            "title": "Summer Farm Attachment",
+                            "hrs": 6
                         }
+
                     ]
                 }
             ]
@@ -230,7 +239,7 @@
 
                         {
                             "code": "PPCAHP 0219",
-                            "title": "Production Practices",
+                            "title": "ProductionPractices",
                             "hrs": 2
                         }
                     ]
@@ -282,11 +291,12 @@
 
                         {
                             "code": "PPCAHP 0228",
-                            "title": "Production Practices",
+                            "title": "ProductionPractices",
                             "hrs": 2
                         }
                     ]
                 },
+                
                 {
                     "term": "Term III",
                     "courses": [

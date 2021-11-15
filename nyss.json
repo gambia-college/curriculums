@@ -8,44 +8,44 @@
                     "term": "Term I",
                     "courses": [
                         {
-                            "code": "APSBCAHP 0111",
+                            "code": "APS 0111",
                             "title": "Animal Production System",
                             "hrs": 3
                         },
 
                         {
-                            "code": "PHBCAHP 0112",
-                            "title": "Pharmacology",
+                            "code": "PHA 0112",
+                            "title": "Pharmacology I",
                             "hrs": 3
                         },
 
                         {
-                            "code": "BAAPBCAHP 0113",
+                            "code": "BAAP 0113",
                             "title": "Basic Animal Anatomy & Physiology",
                             "hrs": 3
                         },
 
                         {
-                            "code": "BCPBCAHP 0114",
+                            "code": "BCP 0114",
                             "title": "BASIC CROP PROD.",
                             "hrs": 3
                         },
 
                         {
-                            "code": "MTHBCAHP 0115",
-                            "title": "Mathematics",
+                            "code": "MTH 0115",
+                            "title": "Mathematics I",
                             "hrs": 3
                         },
 
                         {
-                            "code": "ANBCAHP 0116",
+                            "code": "ANT 0116",
                             "title": "Animal Nutrition",
                             "hrs": 2
                         },
 
                         {
-                            "code": "CMSBCAHP 0117",
-                            "title": "Communication Skills I",
+                            "code": "CMS 0117",
+                            "title": "Comnmunication Skills I",
                             "hrs": 2
                         }
                     ]
@@ -54,33 +54,35 @@
                     "term": "Term II",
                     "courses": [
                         {
-                            "code": "SWRPBCAHP 0121",
+                            "code": "SRP 0121",
                             "title": "Swine & Rabbit Production",
                             "hrs": 3
                         },
 
                         {
-                            "code": "MTHBCAHP 0122",
+                            "code": "MTH 0122",
                             "title": "Mathematics II",
                             "hrs": 3
                         },
 
                         {
-                            "code": "AGRBCAHP 0123",
-                            "title": "Intro. To Agriculture",
+                            "code": "ITA 0123  ",
+                          
+                            "title": "Intro. To Agriculture ",
                             "hrs": 3
                         },
 
                         {
-                            "code": "PHBCAHP 0124",
-                            "title": "Pharmacology",
+                            "code": "PHA 0124",
+                           
+                            "title": "Pharmacology II ",
                             "hrs": 3
                         },
 
                         {
-                            "code": "CMSBCAHP 0125",
-                            "title": "Communication Skills",
-                            "hrs": 3
+                            "code": "CMS 0125 ",
+                            "title": "Communication Skills II",
+                            "hrs": 2
                         }
                     ]
                 },
@@ -88,25 +90,25 @@
                     "term": "Term III",
                     "courses": [
                         {
-                            "code": "FFBCAHP 0131",
+                            "code": "FEF 0131 ",
                             "title": "FEEDS & FEEDING",
                             "hrs": 3
                         },
 
                         {
-                            "code": "PTPBCAHP 0132",
+                            "code": "POP 0132",
                             "title": "POULTRY PRODUCTION",
                             "hrs": 3
                         },
 
                         {
-                            "code": "IAHBCAHP 0133",
+                            "code": "IAH 0133",
                             "title": "INTRO TO ANIMAL HEALTH",
-                            "hrs": 2
+                            "hrs": 3
                         },
 
                         {
-                            "code": "RPBCAHP 0134",
+                            "code": "RBP 0134",
                             "title": "Rabbit Production",
                             "hrs": 2
                         }
@@ -121,25 +123,25 @@
                     "term": "Term I",
                     "courses": [
                         {
-                            "code": "LRPBCAHP 0211",
+                            "code": "LRP 0211",
                             "title": "LARGE RUMINANT PRODUCTION",
                             "hrs": 3
                         },
 
                         {
-                            "code": "SRPBCAHP 0212",
+                            "code": "SRP 0212",
                             "title": "SMALL RUMINANT PRODUCTION",
                             "hrs": 3
                         },
 
                         {
-                            "code": "FMABCAHP 0213",
+                            "code": "FMA 0213",
                             "title": "FARM MANAGEMENT & ACCOUNTING",
                             "hrs": 3
                         },
 
                         {
-                            "code": "CPBCAHP 0214",
+                            "code": "CRM 0214",
                             "title": "CROP MANAGEMENT",
                             "hrs": 3
                         }
@@ -149,9 +151,9 @@
                     "term": "Term II",
                     "courses": [
                         {
-                            "code": "IABCAHP 0221",
+                            "code": "IDA 0221",
                             "title": "INDUSTRIAL ATTACHMENT",
-                            "hrs": 6
+                            "hrs": 12
                         }
                     ]
                 },
@@ -159,32 +161,26 @@
                     "term": "Term III",
                     "courses": [
                         {
-                            "code": "FMMBCAHP 0231",
-                            "title": "FARM MGT & MARKETING",
-                            "hrs": 3
-                        },
-
-                        {
-                            "code": "DUABCAHP 0232",
+                            "code": "DUA 0231",
                             "title": "DRUG USE & APPLICATION",
                             "hrs": 3
                         },
 
                         {
-                            "code": "DAPBCAHP 0233",
+                            "code": "DAP 0232",
                             "title": "DRAUGHT ANIMAL PRODUCTION",
                             "hrs": 3
                         },
 
                         {
-                            "code": "AHBCAHP 0234",
-                            "title": "ANIMAL HEALTH",
-                            "hrs": 3
+                            "code": "INT 0233",
+                            "title": "Information Technology",
+                            "hrs": 2
                         },
 
                         {
-                            "code": "ITBCAHP 0235",
-                            "title": "Information Technology",
+                            "code": "ANH 0234",
+                            "title": "ANIMAL HEALTH",
                             "hrs": 3
                         }
                     ]

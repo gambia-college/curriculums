@@ -80,18 +80,18 @@
                             "code": "PHTHD2 0124",
                             "title": "Mathematics III",
                             "hrs": 3
-                        }
+                        },
 
                         {
                             "code": "FCSHD2 0125",
                             "title": "Fundamentals of Crop Science ",
-                            "hrs": "3"
+                            "hrs": 3
                         },
 
                         {
                             "code": "LFFHD2 0126",
                             "title": "Livestock Feeds & Feeding",
-                            "hrs":"3"
+                            "hrs":3
                         },
 
                         {
@@ -104,15 +104,10 @@
                             "code": "PPHD2 0128",
                             "title": "Production Practices",
                             "hrs": 2
-                        },
-
-                        {
-                            "code": "NO CODE",
-                            "title": "Research Methods I",
-                            "hrs": 3
                         }
                     ]
                 },
+
                 {
                     "term": "Term III",
                     "courses": [
@@ -228,6 +223,7 @@
                         }
                     ]
                 },
+
                 {
                     "term": "Term II",
                     "courses": [
@@ -277,13 +273,9 @@
                             "code": "PPHD2 0227",
                             "title": "Production practices",
                             "hrs": 2
-                        },
-
-                        {
-                            "code": "",
-                            "title": "",
-                            "hrs": 3
                         }
+
+                        
                     ]
                 },
                 {

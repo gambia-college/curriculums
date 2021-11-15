@@ -51,7 +51,7 @@
             {
               "code": "PPHD3 0118",
               "title": "Production Practices",
-              "hrs": "2"
+              "hrs": 2
             }
           ]
         },
@@ -151,7 +151,7 @@
             {
               "code": "PPHD3 0118",
               "title": "Production Practices",
-              "hrs": 3
+              "hrs": 2
             }
           ]
         }
@@ -208,14 +208,10 @@
             {
               "code": "PPHD3 0218",
               "title": "Production Practices",
-              "hrs": 3
-            },
-
-            {
-              "code": "",
-              "title": "",
-              "hrs": 3
+              "hrs": 2
             }
+
+            
           ]
         },
 
@@ -318,7 +314,7 @@
             },
 
             {
-              "code": "NO CODE",
+              "code": "ITHD0238",
               "title": "Information Technology",
               "hrs": 2
             }
@@ -387,7 +383,7 @@
             {
               "code": "PPHD3 0327",
               "title": "Production practices",
-              "hrs": 3
+              "hrs": 2
             }
           ]
         },
@@ -396,26 +392,44 @@
           "term": "Term III",
           "courses": [
             {
-              "code": "",
-              "title": "",
+              "code": "AGMHD3 0331",
+              "title": "Agric Marketing",
               "hrs": 3
             },
 
             {
-              "code": "",
-              "title": "",
+              "code": "AHHD3 0332",
+              "title": "Animal Health",
+              "hrs": 2
+            },
+
+            {
+              "code": "LRPHD3 0333",
+              "title": "Large Ruminant Production",
               "hrs": 3
             },
 
             {
-              "code": "",
-              "title": "",
+              "code": "IPMHD3 0334",
+              "title": "IPM",
+              "hrs": 2
+            },
+
+            {
+              "code": "ENAHD3 0335",
+              "title": "Environmental Agriculture",
               "hrs": 3
             },
 
             {
-              "code": "",
-              "title": "",
+              "code": "ECHD3 0336",
+              "title": "Ext. Comm.",
+              "hrs": 3
+            },
+
+            {
+              "code": "PAIHD3 0337",
+              "title": "Plant & Animal Improvement",
               "hrs": 3
             }
           ]

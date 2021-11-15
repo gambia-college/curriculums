@@ -46,7 +46,7 @@
                         {
                             "code": "PPHDAHP 0117",
                             "title": "Production Practices",
-                            "hrs": 3
+                            "hrs": 2
                         }
                     ]
                 },
@@ -145,6 +145,13 @@
                             "code": "PPHDAHP 0137",
                             "title": "Production Practices",
                             "hrs": 2
+                        },
+
+                        {
+                            "code": "SPHDAHP 0101",
+                            "title": "Summer Practical",
+                            
+                            "hrs": 6
                         }
                     ]
                 }
@@ -281,7 +288,14 @@
                         {
                             "code": "CDHDAHP 0236",
                             "title": "Career Development",
-                            "hrs": 3
+                            "hrs": 1
+                        },
+
+                        {
+                            "code": "PJHDAHP 0300",
+                            "title": "Project",
+                            
+                            "hrs": 6
                         }
                     ]
                 }
