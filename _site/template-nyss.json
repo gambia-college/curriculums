@@ -1,0 +1,75 @@
+{
+    "programme": "",
+    "years": [
+        {
+            "year": "Year 1",
+            "terms": [
+                {
+                    "term": "Term I",
+                    "courses": [
+                        {
+                            "code": "",
+                            "title": "",
+                            "hrs": 3
+                        }
+                    ]
+                },
+                {
+                    "term": "Term II",
+                    "courses": [
+                        {
+                            "code": "",
+                            "title": "",
+                            "hrs": 3
+                        }
+                    ]
+                },
+                {
+                    "term": "Term III",
+                    "courses": [
+                        {
+                            "code": "",
+                            "title": "",
+                            "hrs": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": "Year 2",
+            "terms": [
+                {
+                    "term": "Term I",
+                    "courses": [
+                        {
+                            "code": "",
+                            "title": "",
+                            "hrs": 3
+                        }
+                    ]
+                },
+                {
+                    "term": "Term II",
+                    "courses": [
+                        {
+                            "code": "",
+                            "title": "",
+                            "hrs": 3
+                        }
+                    ]
+                },
+                {
+                    "term": "Term III",
+                    "courses": [
+                        {
+                            "code": "",
+                            "title": "",
+                            "hrs": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

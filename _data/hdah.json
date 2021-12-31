@@ -1,5 +1,5 @@
 {
-    "programme": "",
+    "programme": "hdah",
     "years": [
         {
             "year": "Year 1",
@@ -79,12 +79,6 @@
 
                         {
                             "code": "ITHDAHP 0125",
-                            "title": "",
-                            "hrs": 3
-                        },
-
-                        {
-                            "code": "",
                             "title": "IT",
                             "hrs": 3
                         },

@@ -1,0 +1,47 @@
+---
+layout: layout
+title: verifying data
+---
+<table>
+  {% assign years = site.data.nyss.years %}
+
+
+  <p>{{site.data.nyss.programme}}</p>
+  {% for year in years %}
+  <tr>
+    <th>{{year.year}}</th>
+  </tr>
+  
+
+  {% assign terms = year.terms %}
+  {% for term in terms %}
+  <tr>
+    <th> {{ term.term }} </th>
+  </tr>
+
+
+  <tr>
+    <td>code</td>
+    <td>title</td>
+    <td>hrs</td>
+  </tr>
+
+   
+
+  {% assign courses = term.courses %}
+  {% for course in courses %}
+  <tr>
+    <td>{{course.code}}</td>
+    <td>{{course.title}}</td>
+    <td>{{course.hrs}}</td>
+  </tr>
+    
+  {% endfor %}
+
+
+
+  {% endfor %}
+  {% endfor %}
+
+  
+</table>

@@ -1,0 +1,36 @@
+# Site settings
+title: Posting
+description: "posting data"
+keywords:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: 
+type: website
+image: 
+author: GC R&D Team
+permalink: pretty
+
+
+# Sass Settings
+sass:
+  add_charset: true
+  sass_dir: _sass
+  style: :compressed
+
+# Collections Settings
+collections_dir: the_collections
+collections:
+  programmes:
+    output: true
+    permalink: /gc-journal/memos-2022-01-01/programmes/:name/
+
+## ADD other settings below here
+# Build Settings
+exclude:
+  - package.json
+  - README.md
+  - CNAME
+  - public/sass
+  - Gemfile
+  - Gemfile.lock
+  - Guardfile
+  - LICENSE

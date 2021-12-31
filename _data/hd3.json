@@ -1,5 +1,5 @@
 {
-  "programme": "",
+  "programme": "hd3",
   "years": [
     {
       "year": "Year 1",
@@ -19,8 +19,8 @@
             },
 
             {
-              "code": "Chemistry I",
-              "title": "CHEMHD3 0113",
+              "code": "CHEMHD3 0113",
+              "title": "Chemistry I",
               "hrs": 2
             },
 
@@ -329,7 +329,7 @@
           "term": "Term I",
           "courses": [
             {
-              "code": "",
+              "code": "IA3 0311",
               "title": "Internship ( Industrial attachment)",
               "hrs": 3
             }

@@ -1,5 +1,5 @@
 {
-    "programme": "HDA",
+    "programme": "hda mature",
     "years": [
         {
             "year": "Year 1",
@@ -20,7 +20,7 @@
 
                         {
                             "code": "HCHD2 0113",
-                            "title": "Horticulture (Vegetables",
+                            "title": "Horticulture (Vegetables)",
                             "hrs": 3
                         },
 
@@ -77,7 +77,7 @@
                         },
 
                         {
-                            "code": "PHTHD2 0124",
+                            "code": "MTHHD2 0124",
                             "title": "Mathematics III",
                             "hrs": 3
                         },
